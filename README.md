@@ -1,6 +1,6 @@
 # Pawesome
 
-Pawesome will be a Pet adoption site for a shelter.
+Pawesome will be a pet adoption site for a shelter.
 
 ## As a regular user you'll be able to
 

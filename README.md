@@ -28,9 +28,15 @@ Pawesome will be a Pet adoption site for a shelter.
 - React.js
 - Node.js
 - Express.js
+- Stripe API
 
 ### Tech Stack I want to learn
 
 - MongoDB
 - GraphQl
 - Tailwind CSS
+
+### MVP
+
+- Regular users can navigate from the landing page to animals that are up for adoption and articles posted by site admins
+- Admin users can add animals to the adoption database, make edits to existing animals info/adoption status, and add/edit articles

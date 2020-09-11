@@ -44,3 +44,7 @@ Pawesome will be a pet adoption site for a shelter.
 ### Pawesome Mind Map
 
 ![Pawesome MVP Mind Map](images/PawesomeMindMap.jpg "Pawesome Mind Map")
+
+#### Ideas Past MVP
+
+- Integrate the Petfinder API so people can actually use the site to find pets to adopt instead of just displaying dummy data

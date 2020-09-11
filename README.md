@@ -40,3 +40,7 @@ Pawesome will be a pet adoption site for a shelter.
 
 - Regular users can navigate from the landing page to animals that are up for adoption and articles posted by site admins
 - Admin users can add animals to the adoption database, make edits to existing animals info/adoption status, and add/edit articles
+
+### Pawesome Mind Map
+
+![Pawesome MVP Mind Map](images/PawesomeMindMap.jpg "Pawesome Mind Map")
